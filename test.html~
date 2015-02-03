@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<link ref="stylesheet" type="text/css" href="test.css"/>
+		<link ref="stylesheet" type="text/css href="test.css"/>
 		<title>Git Test</title>
 	</head>
 	<body>
